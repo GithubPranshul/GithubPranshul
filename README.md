@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranshul
 - 👀 I’m interested in Software Technology things.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning App Development through Android OS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email - developerpranshul@gmail.com
 
