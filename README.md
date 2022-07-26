@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubpranshul&" alt="githubpranshul" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubpranshul&show_icons=true&locale=en&layout=compact" alt="githubpranshul" /></p>
+
 
