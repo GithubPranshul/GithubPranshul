@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubpranshul" alt="githubpranshul" /></a> </p>
 
-- 🌱 I’m currently learning **Native Android App development with Kotlin language**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **pranshulsingh@duck.com**
 
