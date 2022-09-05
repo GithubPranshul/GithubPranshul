@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/pranshul-singh-096b95201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshul-singh-096b95201/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pranshul_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranshul_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranshul_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranshul_01" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/pranshul_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranshul_01" height="30" width="40" /></a>
   
 </p>
 
