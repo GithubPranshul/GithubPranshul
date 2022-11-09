@@ -36,7 +36,7 @@
 
 <p align = "left">
 <h3 align="left"> Flutter Projects </h3>
-<a href = "https://github.com/GithubPranshul/flash-chat"><h7 align = "left">Flash Chat</h1>
+<a href = "https://github.com/GithubPranshul/flash-chat" target = "_blank" rel = "noreferrer"><h7 align = "left">Flash Chat</h1>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubpranshul&show_icons=true&locale=en&layout=compact" alt="githubpranshul" /></p>
